@@ -20,7 +20,7 @@ body {
 	background-color: #fff;
 }
 
-footer,
+
 nav {
   display: block;
 }
@@ -199,15 +199,15 @@ section {
     display: -webkit-flex;
     display: flex;
 	flex-wrap: wrap;
-	padding: 10px;
+	padding: 20px;
 	border-radius: 8px;
 	margin: 0px auto;
-	background-color: rgba(100,65,0,.3);
+	background-color: #A9A9A9;
 	box-shadow: 2px 2px 10px 0 rgba(0,0,0,0.5);
 }
 
 #contact {
-     background-color: #f5f3f3;
+     background-color: #A9A9A9;
 }
 
 .reservation {
