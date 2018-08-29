@@ -17,7 +17,7 @@ body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height: 1.42857143;
 	color: #333;
-	background-color: #fff;
+	background-color: DarkSlateGray;
 }
 
 
@@ -90,6 +90,8 @@ section {
 	height: 105px;
 	max-height: 340px;
 	display: block;
+	background-color: Blue;
+	
 }
 
 .container {
@@ -202,12 +204,12 @@ section {
 	padding: 20px;
 	border-radius: 8px;
 	margin: 0px auto;
-	background-color: #A9A9A9;
+	background-color: Azure;
 	box-shadow: 2px 2px 10px 0 rgba(0,0,0,0.5);
 }
 
 #contact {
-     background-color: #A9A9A9;
+     background-color: Azure;
 }
 
 .reservation {
@@ -215,7 +217,7 @@ section {
 	padding: 10px;
 	border-radius: 8px;
 	margin: 0px auto;
-	background-color: rgba(100,65,0,.3);
+	background-color: Azure;
 	box-shadow: -1px -1px 1px 0 rgba(0,0,0,0.1), 1px 2px 10px 0 rgba(0,0,0,0.5);
 }
 
@@ -343,7 +345,7 @@ section {
   FOOTER STYLES
   ======================================*/
 #footer {
-    background-color: rgba(100,65,0,.3);
+    background-color: DarkSlateGray;
     color: #000;
 	text-shadow: 2px 2px 8px 0 (0,0,0,0.4);
     padding: 20px 50px 20px 50px;
