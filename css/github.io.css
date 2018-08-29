@@ -208,12 +208,12 @@ Projects STYLES
 	padding: 20px;
 	border-radius: 8px;
 	margin: 0px auto;
-	background-color: Azure;
+	background-images: Azure;
 	box-shadow: 2px 2px 10px 0 rgba(0,0,0,0.5);
 }
 
 #contact {
-     background-color: Azure;
+     background: url(../images/code.jpg) no-repeat 50% 50%;
 }
 
 
