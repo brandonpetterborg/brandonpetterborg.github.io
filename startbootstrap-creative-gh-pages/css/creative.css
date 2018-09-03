@@ -264,8 +264,22 @@ header.masthead p {
 	text-shadow:3px 3px 15px black;
 }
 
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
-
+.portfolio {
+  position: relative;
+  
+  border: 1px solid #333;
+  margin: 2%;
+  overflow: hidden;
+  width: 540px;
+}
 .portfolio img {
   max-width: 100%;
   
