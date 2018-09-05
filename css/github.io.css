@@ -267,15 +267,18 @@ header.masthead p {
 
 .column {
 	width: 33.3%;
-	float: center;
-	padding: 5px;
+	float: right;
+	padding: 10px;
+	
 }
 
 .row::after {
 	content:"";
 	clear: both;
 	display: table;
+	
+	
 }
 	
 
- 
+
